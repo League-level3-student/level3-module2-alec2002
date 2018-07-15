@@ -1,9 +1,5 @@
 package _00_Sorting_Algorithms;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-import org.junit.jupiter.api.Test;
-
 class _00_SortedArrayCheckerTest {
 
 	@Test
